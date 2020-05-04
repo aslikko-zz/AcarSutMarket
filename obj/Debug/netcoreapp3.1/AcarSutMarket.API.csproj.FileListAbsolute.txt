@@ -1,0 +1,5 @@
+C:\Users\aslik\Desktop\Dersler\Object Oriented Programming 2\AcarSutMarket.API\obj\Debug\netcoreapp3.1\AcarSutMarket.API.csprojAssemblyReference.cache
+C:\Users\aslik\Desktop\Dersler\Object Oriented Programming 2\AcarSutMarket.API\obj\Debug\netcoreapp3.1\AcarSutMarket.API.csproj.CoreCompileInputs.cache
+C:\Users\aslik\Desktop\Dersler\Object Oriented Programming 2\AcarSutMarket.API\obj\Debug\netcoreapp3.1\AcarSutMarket.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aslik\Desktop\Dersler\Object Oriented Programming 2\AcarSutMarket.API\obj\Debug\netcoreapp3.1\AcarSutMarket.API.AssemblyInfoInputs.cache
+C:\Users\aslik\Desktop\Dersler\Object Oriented Programming 2\AcarSutMarket.API\obj\Debug\netcoreapp3.1\AcarSutMarket.API.AssemblyInfo.cs
